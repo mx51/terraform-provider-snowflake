@@ -1,0 +1,6 @@
+name: "Configuration file for CodeQL (SAST)."
+
+paths-ignore:
+  - '**/node_modules'
+  - '**/site-packages'
+  - '**/vendor'
